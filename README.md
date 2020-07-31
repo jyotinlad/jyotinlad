@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Welcome <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p>I'm Jyotin, a software development professional from <b>Leicester, United Kingdom</b> <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/>, currently living in <b>London, United Kindgom</b> <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="13"/>.</p>
@@ -27,3 +28,6 @@
 ------------
 <p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Friday, 31 July, 20:02 CEST<br /></p>
 <p align="center"><img src="https://github.com/jyotinlad/jyotinlad/workflows/README%20build/badge.svg" /></p>
+=======
+My name is Jyotin and today is Friday, 31 July, 19:17 BST.
+>>>>>>> f94c4e1537d1a686284c223168b675f30b4f36c8
