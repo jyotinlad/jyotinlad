@@ -11,9 +11,11 @@
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-grey?style=flat&logo=sqlite&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=mongodb&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-grey?style=flat&logo=rabbitmq&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-grey?style=flat&logo=git&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-grey?style=flat&logo=github-actions&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-grey?style=flat&logo=github-actions&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-grey?style=flat&logo=jenkins&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-grey?style=flat&logo=tableau&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-grey?style=flat&logo=jira&logoColor=white" />
   <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-grey?style=flat&logo=confluence&logoColor=white" />
 </p>
@@ -21,5 +23,5 @@
 <p><a href="https://github.com/jyotinlad" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jyotinlad" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Friday, 31 July, 20:35 BST<br /></p>
+<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Friday, 31 July, 20:49 BST<br /></p>
 <p align="center"><img src="https://github.com/jyotinlad/jyotinlad/workflows/README%20build/badge.svg" /></p>
