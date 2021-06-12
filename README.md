@@ -37,7 +37,9 @@
 <h2>Stats</h2>
 <h3>Coding Activity Last 7 Days</h3>
 <img src="https://wakatime.com/share/@jyotinlad/d364672e-059c-4856-968b-6fb37c4cc0b1.svg" width="800" height="500" />
+<h3>Languages Last 7 Days</h3>
+<img src="https://wakatime.com/share/@jyotinlad/94c2fd21-ebaf-4a04-abda-2795b9265f2d.svg" width="800" height="500" />
 
 ------------
-<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Saturday, 12 June, 19:37 BST<br /></p>
+<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Saturday, 12 June, 19:42 BST<br /></p>
 <p align="center"><img src="https://github.com/jyotinlad/jyotinlad/workflows/README%20build/badge.svg" /></p>
