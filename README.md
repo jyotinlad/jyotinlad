@@ -33,8 +33,10 @@
   <a href="https://www.linkedin.com/in/jyotinlad" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 <h3>Stats</h3>
-<figure><embed src="https://wakatime.com/share/@jyotinlad/d364672e-059c-4856-968b-6fb37c4cc0b1.svg"></embed></figure>
+<figure  width="100" height="80">
+  <embed src="https://wakatime.com/share/@jyotinlad/d364672e-059c-4856-968b-6fb37c4cc0b1.svg"></embed>
+</figure>
 
 ------------
-<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Saturday, 12 June, 15:08 BST<br /></p>
+<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Saturday, 12 June, 15:16 BST<br /></p>
 <p align="center"><img src="https://github.com/jyotinlad/jyotinlad/workflows/README%20build/badge.svg" /></p>
