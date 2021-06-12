@@ -36,9 +36,10 @@
 </p>
 <h3>Stats</h3>
 <figure>
-  <embed src="https://wakatime.com/share/@jyotinlad/d364672e-059c-4856-968b-6fb37c4cc0b1.svg" width="100" height="80"></embed>
+  <embed type="image/jpg" src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xOTYwMDA3Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY2NjEwODk4OH0.Ak820-nwF0IHPksLKc2pA3Bkby4Un2spz0PnZkzn_90/img.jpg?width=1245&quality=85&coordinates=0%2C460%2C0%2C165&height=700" width="100" height="80"></embed>
 </figure>
+<img src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xOTYwMDA3Ny9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY2NjEwODk4OH0.Ak820-nwF0IHPksLKc2pA3Bkby4Un2spz0PnZkzn_90/img.jpg?width=1245&quality=85&coordinates=0%2C460%2C0%2C165&height=700" alt="TEST">
 
 ------------
-<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Saturday, 12 June, 15:35 BST<br /></p>
+<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Saturday, 12 June, 15:44 BST<br /></p>
 <p align="center"><img src="https://github.com/jyotinlad/jyotinlad/workflows/README%20build/badge.svg" /></p>
