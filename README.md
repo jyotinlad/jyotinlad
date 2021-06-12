@@ -1,6 +1,8 @@
 <h1>Welcome <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p>I'm Jyotin, a Software Development Professional from <b>Leicester, UK</b> <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="15"/>, currently living in <b>London, UK</b> <img src="https://image.flaticon.com/icons/svg/197/197374.svg" width="15"/>.</p>
+<!--icons: https://simpleicons.org/-->
+<!--badges: https://shields.io/-->
 <h3>Skills</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-grey?style=flat&logo=python&logoColor=white"/>
@@ -38,5 +40,5 @@
 </figure>
 
 ------------
-<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Saturday, 12 June, 15:16 BST<br /></p>
+<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Saturday, 12 June, 15:29 BST<br /></p>
 <p align="center"><img src="https://github.com/jyotinlad/jyotinlad/workflows/README%20build/badge.svg" /></p>
