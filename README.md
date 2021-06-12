@@ -36,9 +36,9 @@
 </p>
 <h3>Stats</h3>
 <div>
-  <img src="https://wakatime.com/share/@jyotinlad/d364672e-059c-4856-968b-6fb37c4cc0b1.svg"></img>
+  <img src="https://wakatime.com/share/@jyotinlad/d364672e-059c-4856-968b-6fb37c4cc0b1.svg" width="200" height="200" />
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Saturday, 12 June, 19:26 BST<br /></p>
+<p align="center">This <i>README</i> file is generated every 3 hours.</br>Last Refresh: Saturday, 12 June, 19:31 BST<br /></p>
 <p align="center"><img src="https://github.com/jyotinlad/jyotinlad/workflows/README%20build/badge.svg" /></p>
